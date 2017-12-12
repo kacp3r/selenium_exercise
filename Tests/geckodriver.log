@@ -1,0 +1,704 @@
+1512735011497	geckodriver	INFO	geckodriver 0.19.1
+1512735011501	geckodriver	INFO	Listening on 127.0.0.1:38081
+1512735012610	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.DxYqsr1g1oCL"
+1512735013075	Marionette	INFO	Enabled via --marionette
+1512735014324	Marionette	INFO	Listening on port 36515
+1512735014422	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512735014472	Marionette	DEBUG	Register listener.js for window 2147483649
+1512735014538	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512735018091	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512735018092	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512735018539	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/"
+1512735019849	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/"
+[Child 13018, Chrome_ChildThread] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 13018, Chrome_ChildThread] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 13018, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+Sandbox: Unexpected EOF, op 10 flags 00 path /dev/fd/34
+1512735159447	geckodriver	INFO	geckodriver 0.19.1
+1512735159450	geckodriver	INFO	Listening on 127.0.0.1:47867
+1512735160561	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.tsKFH9vOgNkU"
+1512735160989	Marionette	INFO	Enabled via --marionette
+1512735162101	Marionette	INFO	Listening on port 36597
+1512735162194	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512735162244	Marionette	DEBUG	Register listener.js for window 2147483649
+1512735162330	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512735165747	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512735165748	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512735166188	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/"
+1512735167558	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/"
+1512735352089	geckodriver	INFO	geckodriver 0.19.1
+1512735352092	geckodriver	INFO	Listening on 127.0.0.1:52257
+1512735353176	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.4siy3YZnvfiY"
+1512735353564	Marionette	INFO	Enabled via --marionette
+1512735354635	Marionette	INFO	Listening on port 39273
+1512735354700	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512735354749	Marionette	DEBUG	Register listener.js for window 2147483649
+1512735354846	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512735356608	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512735356608	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512735357085	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/"
+1512735358558	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/"
+1512741624296	geckodriver	INFO	geckodriver 0.19.1
+1512741624299	geckodriver	INFO	Listening on 127.0.0.1:59567
+1512741624383	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.jzkAlcVi8wyP"
+1512741624797	Marionette	INFO	Enabled via --marionette
+1512741625980	Marionette	INFO	Listening on port 35219
+1512741625993	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512741626045	Marionette	DEBUG	Register listener.js for window 2147483649
+1512741626164	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512741630005	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512741630005	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512741631012	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/"
+1512741637606	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/"
+[Child 17498, Chrome_ChildThread] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 17498, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1512986163108	geckodriver	INFO	geckodriver 0.19.1
+1512986163124	geckodriver	INFO	Listening on 127.0.0.1:47935
+1512986164250	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.O24BkeQjZLra"
+1512986164664	Marionette	INFO	Enabled via --marionette
+1512986165890	Marionette	INFO	Listening on port 33139
+1512986165957	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512986166006	Marionette	DEBUG	Register listener.js for window 2147483649
+1512986166088	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512986167747	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512986167747	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512986168203	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/"
+1512986169351	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/"
+[Child 22735, Chrome_ChildThread] WARNING: pipe error (17): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 22735, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1512990168039	geckodriver	INFO	geckodriver 0.19.1
+1512990168043	geckodriver	INFO	Listening on 127.0.0.1:58177
+1512990168139	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.cVqomjmweDc9"
+1512990168681	Marionette	INFO	Enabled via --marionette
+1512990169952	Marionette	INFO	Listening on port 34667
+1512990170050	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512990170107	Marionette	DEBUG	Register listener.js for window 2147483649
+1512990170202	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512990172054	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512990172055	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512990172529	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/"
+1512990173748	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/"
+[Child 24722, Chrome_ChildThread] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 24722, Chrome_ChildThread] WARNING: pipe error (21): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 24722, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+Sandbox: Unexpected EOF, op 10 flags 00 path /dev/fd/43
+1512990552014	geckodriver	INFO	geckodriver 0.19.1
+1512990552016	geckodriver	INFO	Listening on 127.0.0.1:43419
+1512990553133	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.3rlD9Fb4UW8i"
+1512990553597	Marionette	INFO	Enabled via --marionette
+1512990554773	Marionette	INFO	Listening on port 36257
+1512990554846	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512990554901	Marionette	DEBUG	Register listener.js for window 2147483649
+1512990555032	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512990558390	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512990558391	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512990558826	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/"
+1512990560406	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/"
+[Child 25133, Chrome_ChildThread] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 25133, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 25133, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1512992184415	geckodriver	INFO	geckodriver 0.19.1
+1512992184418	geckodriver	INFO	Listening on 127.0.0.1:33315
+1512992185520	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.GMiy3gTgvcYH"
+1512992185909	Marionette	INFO	Enabled via --marionette
+1512992187034	Marionette	INFO	Listening on port 46675
+1512992187133	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512992187184	Marionette	DEBUG	Register listener.js for window 2147483649
+1512992187259	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512992189090	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512992189091	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512992189558	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/"
+1512992190700	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/"
+[Child 26495, Chrome_ChildThread] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 26495, Chrome_ChildThread] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 26495, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1512992347678	geckodriver	INFO	geckodriver 0.19.1
+1512992347681	geckodriver	INFO	Listening on 127.0.0.1:50423
+1512992348766	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.aLFKYOLaLQCc"
+1512992349178	Marionette	INFO	Enabled via --marionette
+1512992350856	Marionette	INFO	Listening on port 33657
+1512992350880	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512992350950	Marionette	DEBUG	Register listener.js for window 2147483649
+1512992351084	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512992352866	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512992352866	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512992353279	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/"
+1512992354613	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/"
+[Child 26742, Chrome_ChildThread] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 26742, Chrome_ChildThread] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 26742, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1512992501751	geckodriver	INFO	geckodriver 0.19.1
+1512992501754	geckodriver	INFO	Listening on 127.0.0.1:35059
+1512992502842	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.K9sBgjDls8JA"
+1512992503254	Marionette	INFO	Enabled via --marionette
+1512992504352	Marionette	INFO	Listening on port 40863
+1512992504449	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512992504500	Marionette	DEBUG	Register listener.js for window 2147483649
+1512992504581	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512992506691	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512992506691	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512992507140	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/"
+1512992508592	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/"
+[Child 26982, Chrome_ChildThread] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 26982, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 26982, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+Sandbox: Unexpected EOF, op 10 flags 00 path /dev/fd/43
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x720003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x720003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470007,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x720003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x720003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470007,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x720003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x720003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470007,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x720003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x720003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470007,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x720003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x720003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470007,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+1512992546936	geckodriver	INFO	geckodriver 0.19.1
+1512992546940	geckodriver	INFO	Listening on 127.0.0.1:33385
+1512992548022	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.mFKqIRhQDGTq"
+1512992548435	Marionette	INFO	Enabled via --marionette
+1512992549550	Marionette	INFO	Listening on port 33997
+1512992549632	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512992549680	Marionette	DEBUG	Register listener.js for window 2147483649
+1512992549778	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512992553264	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512992553265	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512992553684	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/"
+1512992555116	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/"
+[Child 27175, Chrome_ChildThread] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 27175, Chrome_ChildThread] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 27175, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1512992574568	geckodriver	INFO	geckodriver 0.19.1
+1512992574570	geckodriver	INFO	Listening on 127.0.0.1:45551
+1512992575677	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2jdtgETotn0G"
+1512992576089	Marionette	INFO	Enabled via --marionette
+1512992577200	Marionette	INFO	Listening on port 45691
+1512992577299	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512992577352	Marionette	DEBUG	Register listener.js for window 2147483649
+1512992577433	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512992579178	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512992579178	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512992579635	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/"
+1512992580787	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/"
+[Child 27338, Chrome_ChildThread] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+Sandbox: Unexpected EOF, op 10 flags 00 path /dev/fd/34
+[Child 27338, Chrome_ChildThread] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x720003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+[Child 27338, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x720003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470007,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+1512992607704	geckodriver	INFO	geckodriver 0.19.1
+1512992607707	geckodriver	INFO	Listening on 127.0.0.1:39749
+1512992607801	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.vXtq3bK7QpwG"
+1512992608209	Marionette	INFO	Enabled via --marionette
+1512992609323	Marionette	INFO	Listening on port 39847
+1512992609415	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512992609468	Marionette	DEBUG	Register listener.js for window 2147483649
+1512992609564	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512992611123	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512992611123	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512992611573	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/"
+1512992612715	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/"
+[Child 27511, Chrome_ChildThread] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 27511, Chrome_ChildThread] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 27511, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+Sandbox: Unexpected EOF, op 10 flags 00 path /dev/fd/46
+1512992692333	geckodriver	INFO	geckodriver 0.19.1
+1512992692337	geckodriver	INFO	Listening on 127.0.0.1:36581
+1512992693440	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.NwQpbtwRbSwr"
+1512992693826	Marionette	INFO	Enabled via --marionette
+1512992694932	Marionette	INFO	Listening on port 34485
+1512992694956	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512992695016	Marionette	DEBUG	Register listener.js for window 2147483649
+1512992695170	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512992697751	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512992697751	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512992698209	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/"
+1512992699659	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/"
+[Child 27709, Chrome_ChildThread] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 27709, Chrome_ChildThread] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 27709, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1512996591672	geckodriver	INFO	geckodriver 0.19.1
+1512996591676	geckodriver	INFO	Listening on 127.0.0.1:58091
+1512996592792	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.psNHA9MJlSWG"
+1512996593411	Marionette	INFO	Enabled via --marionette
+1512996595026	Marionette	INFO	Listening on port 38903
+1512996595129	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512996595214	Marionette	DEBUG	Register listener.js for window 2147483649
+1512996595358	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512996597626	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512996597626	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512996598237	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/"
+1512996599851	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/"
+1512996599970	Marionette	DEBUG	Received DOM event "beforeunload" for "https://notopstryk.pl/"
+1512996600584	Marionette	DEBUG	Received DOM event "pagehide" for "https://notopstryk.pl/"
+1512996600585	Marionette	DEBUG	Received DOM event "unload" for "https://notopstryk.pl/"
+1512996600792	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/pl/login"
+1512996600806	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1512996600807	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1512996600911	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/pl/login"
+[Child 30452, Chrome_ChildThread] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 30452, Chrome_ChildThread] WARNING: pipe error (21): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 30452, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1512996649585	geckodriver	INFO	geckodriver 0.19.1
+1512996649589	geckodriver	INFO	Listening on 127.0.0.1:56581
+1512996650764	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ufzf1c2CQjlc"
+1512996651387	Marionette	INFO	Enabled via --marionette
+1512996653095	Marionette	INFO	Listening on port 42667
+1512996653203	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512996653284	Marionette	DEBUG	Register listener.js for window 2147483649
+1512996653410	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512996654965	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512996654965	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512996655513	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/"
+1512996656682	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/"
+1512996656799	Marionette	DEBUG	Received DOM event "beforeunload" for "https://notopstryk.pl/"
+1512996657555	Marionette	DEBUG	Received DOM event "pagehide" for "https://notopstryk.pl/"
+1512996657556	Marionette	DEBUG	Received DOM event "unload" for "https://notopstryk.pl/"
+1512996657759	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/pl/login"
+1512996657770	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1512996657771	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1512996657882	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/pl/login"
+[Child 30648, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 30648, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+Sandbox: Unexpected EOF, op 10 flags 00 path /dev/fd/34
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x720003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+1512997000000	geckodriver	INFO	geckodriver 0.19.1
+1512997000004	geckodriver	INFO	Listening on 127.0.0.1:34789
+1512997000133	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Dkk5H3g0HsAD"
+1512997000797	Marionette	INFO	Enabled via --marionette
+1512997002336	Marionette	INFO	Listening on port 42723
+1512997002363	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512997002428	Marionette	DEBUG	Register listener.js for window 2147483649
+1512997002591	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512997004255	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512997004255	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512997004800	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/"
+1512997005780	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/"
+1512997005858	Marionette	DEBUG	Received DOM event "beforeunload" for "https://notopstryk.pl/"
+1512997006408	Marionette	DEBUG	Received DOM event "pagehide" for "https://notopstryk.pl/"
+1512997006408	Marionette	DEBUG	Received DOM event "unload" for "https://notopstryk.pl/"
+1512997006686	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/pl/login"
+1512997006692	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1512997006693	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1512997006822	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/pl/login"
+[Child 30967, Chrome_ChildThread] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 30967, Chrome_ChildThread] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 30967, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1513061837574	geckodriver	INFO	geckodriver 0.19.1
+1513061837577	geckodriver	INFO	Listening on 127.0.0.1:47661
+1513061837674	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.knx2K905tPjy"
+1513061838215	Marionette	INFO	Enabled via --marionette
+1513061839430	Marionette	INFO	Listening on port 38267
+1513061839496	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513061839549	Marionette	DEBUG	Register listener.js for window 2147483649
+1513061839664	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513061841060	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513061841061	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513061841549	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/"
+1513061842538	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/"
+1513061842623	Marionette	DEBUG	Received DOM event "beforeunload" for "https://notopstryk.pl/"
+1513061843108	Marionette	DEBUG	Received DOM event "pagehide" for "https://notopstryk.pl/"
+1513061843108	Marionette	DEBUG	Received DOM event "unload" for "https://notopstryk.pl/"
+1513061843305	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/pl/login"
+1513061843314	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1513061843314	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1513061843314	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1513061843836	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/pl/login"
+[Child 7193, Chrome_ChildThread] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 7193, Chrome_ChildThread] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+Sandbox: Unexpected EOF, op 10 flags 00 path /dev/fd/34
+[Child 7193, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1513063551035	geckodriver	INFO	geckodriver 0.19.1
+1513063551038	geckodriver	INFO	Listening on 127.0.0.1:48437
+1513063552148	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.HdZD9UcDtJAG"
+1513063552605	Marionette	INFO	Enabled via --marionette
+1513063553815	Marionette	INFO	Listening on port 39783
+1513063553902	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513063553961	Marionette	DEBUG	Register listener.js for window 2147483649
+1513063554082	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513063555526	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513063555526	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513063556009	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/"
+1513063557172	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/"
+1513063557223	Marionette	DEBUG	Received DOM event "beforeunload" for "https://notopstryk.pl/"
+1513063557715	Marionette	DEBUG	Received DOM event "pagehide" for "https://notopstryk.pl/"
+1513063557716	Marionette	DEBUG	Received DOM event "unload" for "https://notopstryk.pl/"
+1513063557887	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/pl/login"
+1513063557922	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1513063557922	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1513063558018	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/pl/login"
+1513063559973	Marionette	DEBUG	Received DOM event "beforeunload" for "https://notopstryk.pl/"
+1513063561399	Marionette	DEBUG	Received DOM event "pagehide" for "https://notopstryk.pl/"
+1513063561400	Marionette	DEBUG	Received DOM event "unload" for "https://notopstryk.pl/"
+1513063561651	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/"
+1513063561668	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1513063561668	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1513063562390	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/"
+Marionette threw an error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: chrome://marionette/content/proxy.js :: sendReply_ :: line 276"  data: no]
+sendReply_@chrome://marionette/content/proxy.js:276:5
+reply@chrome://marionette/content/proxy.js:256:7
+sendToServer@chrome://marionette/content/listener.js:734:3
+sendError@chrome://marionette/content/listener.js:768:3
+dispatch/</<@chrome://marionette/content/listener.js:532:40
+
+1513063936797	geckodriver	INFO	geckodriver 0.19.1
+1513063936800	geckodriver	INFO	Listening on 127.0.0.1:55893
+1513063936895	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.XMYLOVjU3sq5"
+1513063937474	Marionette	INFO	Enabled via --marionette
+1513063938688	Marionette	INFO	Listening on port 37963
+1513063938710	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513063938764	Marionette	DEBUG	Register listener.js for window 2147483649
+1513063938920	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513063940593	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513063940593	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513063941102	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/"
+1513063942216	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/"
+1513063942274	Marionette	DEBUG	Received DOM event "beforeunload" for "https://notopstryk.pl/"
+1513063942747	Marionette	DEBUG	Received DOM event "pagehide" for "https://notopstryk.pl/"
+1513063942747	Marionette	DEBUG	Received DOM event "unload" for "https://notopstryk.pl/"
+1513063942943	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1513063942943	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1513063943004	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/pl/login"
+1513063943090	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/pl/login"
+1513063944905	Marionette	DEBUG	Received DOM event "beforeunload" for "https://notopstryk.pl/"
+1513063945916	Marionette	DEBUG	Received DOM event "pagehide" for "https://notopstryk.pl/"
+1513063945917	Marionette	DEBUG	Received DOM event "unload" for "https://notopstryk.pl/"
+1513063946206	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/"
+1513063946207	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1513063946207	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1513063947023	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/"
+[Child 8786, Chrome_ChildThread] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 8786, Chrome_ChildThread] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 8786, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+Sandbox: Unexpected EOF, op 10 flags 00 path /dev/fd/43
+1513064498772	geckodriver	INFO	geckodriver 0.19.1
+1513064498774	geckodriver	INFO	Listening on 127.0.0.1:36073
+1513064499889	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.fVC61vHuDLBY"
+1513064500336	Marionette	INFO	Enabled via --marionette
+1513064502283	Marionette	INFO	Listening on port 45585
+1513064502303	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513064502353	Marionette	DEBUG	Register listener.js for window 2147483649
+1513064502520	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513064504207	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513064504208	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513064504714	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/"
+1513064505761	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/"
+1513064505822	Marionette	DEBUG	Received DOM event "beforeunload" for "https://notopstryk.pl/"
+1513064506356	Marionette	DEBUG	Received DOM event "pagehide" for "https://notopstryk.pl/"
+1513064506356	Marionette	DEBUG	Received DOM event "unload" for "https://notopstryk.pl/"
+1513064506541	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/pl/login"
+1513064506553	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1513064506554	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1513064506554	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1513064506686	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/pl/login"
+[Child 9447, Chrome_ChildThread] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 9447, Chrome_ChildThread] WARNING: pipe error (17): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 9447, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1513064506808	geckodriver	INFO	geckodriver 0.19.1
+1513064506811	geckodriver	INFO	Listening on 127.0.0.1:51301
+1513064507923	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.OVdIQJOKrYJM"
+1513064508381	Marionette	INFO	Enabled via --marionette
+1513064509590	Marionette	INFO	Listening on port 46399
+1513064509672	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513064509727	Marionette	DEBUG	Register listener.js for window 2147483649
+1513064509825	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513064511303	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513064511303	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513064511757	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/"
+1513064512787	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/"
+1513064512852	Marionette	DEBUG	Received DOM event "beforeunload" for "https://notopstryk.pl/"
+1513064513427	Marionette	DEBUG	Received DOM event "pagehide" for "https://notopstryk.pl/"
+1513064513427	Marionette	DEBUG	Received DOM event "unload" for "https://notopstryk.pl/"
+1513064513614	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/pl/login"
+1513064513625	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1513064513625	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1513064513724	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/pl/login"
+1513064515499	Marionette	DEBUG	Received DOM event "beforeunload" for "https://notopstryk.pl/"
+1513064516813	Marionette	DEBUG	Received DOM event "pagehide" for "https://notopstryk.pl/"
+1513064516813	Marionette	DEBUG	Received DOM event "unload" for "https://notopstryk.pl/"
+1513064517050	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/"
+1513064517065	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1513064517066	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1513064517774	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/"
+[Child 9599, Chrome_ChildThread] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 9599, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1513064517900	geckodriver	INFO	geckodriver 0.19.1
+1513064517905	geckodriver	INFO	Listening on 127.0.0.1:46765
+1513064519016	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.IJortHDJq7RB"
+1513064519481	Marionette	INFO	Enabled via --marionette
+1513064520660	Marionette	INFO	Listening on port 32839
+1513064520736	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513064520790	Marionette	DEBUG	Register listener.js for window 2147483649
+1513064520916	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513064522377	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513064522378	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513064522822	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/"
+1513064523838	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/"
+1513064523903	Marionette	DEBUG	Received DOM event "beforeunload" for "https://notopstryk.pl/"
+1513064524482	Marionette	DEBUG	Received DOM event "pagehide" for "https://notopstryk.pl/"
+1513064524483	Marionette	DEBUG	Received DOM event "unload" for "https://notopstryk.pl/"
+1513064524678	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/pl/login"
+1513064524690	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1513064524690	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1513064525457	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/pl/login"
+1513064527031	Marionette	DEBUG	Received DOM event "beforeunload" for "https://notopstryk.pl/"
+1513064528171	Marionette	DEBUG	Received DOM event "pagehide" for "https://notopstryk.pl/"
+1513064528172	Marionette	DEBUG	Received DOM event "unload" for "https://notopstryk.pl/"
+1513064528413	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/"
+1513064528448	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1513064528448	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1513064529188	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/"
+Marionette threw an error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: chrome://marionette/content/proxy.js :: sendReply_ :: line 276"  data: no]
+sendReply_@chrome://marionette/content/proxy.js:276:5
+reply@chrome://marionette/content/proxy.js:256:7
+sendToServer@chrome://marionette/content/listener.js:734:3
+sendError@chrome://marionette/content/listener.js:768:3
+dispatch/</<@chrome://marionette/content/listener.js:532:40
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2400C1,name=PContent::Msg_GraphicsError) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1513064644931	geckodriver	INFO	geckodriver 0.19.1
+1513064644934	geckodriver	INFO	Listening on 127.0.0.1:37603
+1513064646050	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.M8fKadqNJh2f"
+1513064646507	Marionette	INFO	Enabled via --marionette
+1513064647793	Marionette	INFO	Listening on port 41363
+1513064647862	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513064647915	Marionette	DEBUG	Register listener.js for window 2147483649
+1513064647997	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513064649518	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513064649518	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513064650010	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/"
+1513064651057	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/"
+1513064651151	Marionette	DEBUG	Received DOM event "beforeunload" for "https://notopstryk.pl/"
+1513064651773	Marionette	DEBUG	Received DOM event "pagehide" for "https://notopstryk.pl/"
+1513064651774	Marionette	DEBUG	Received DOM event "unload" for "https://notopstryk.pl/"
+1513064651961	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/pl/login"
+1513064651973	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1513064651973	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1513064652072	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/pl/login"
+[Child 9983, Chrome_ChildThread] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 9983, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 9983, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+Sandbox: Unexpected EOF, op 10 flags 00 path /dev/fd/34
+1513064652197	geckodriver	INFO	geckodriver 0.19.1
+1513064652203	geckodriver	INFO	Listening on 127.0.0.1:52483
+1513064653311	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.M8UHUzVthXEb"
+1513064653765	Marionette	INFO	Enabled via --marionette
+1513064654967	Marionette	INFO	Listening on port 46563
+1513064655055	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513064655111	Marionette	DEBUG	Register listener.js for window 2147483649
+1513064655236	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513064656518	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513064656518	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513064656995	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/"
+1513064663379	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/"
+1513064663437	Marionette	DEBUG	Received DOM event "beforeunload" for "https://notopstryk.pl/"
+1513064664118	Marionette	DEBUG	Received DOM event "pagehide" for "https://notopstryk.pl/"
+1513064664120	Marionette	DEBUG	Received DOM event "unload" for "https://notopstryk.pl/"
+1513064664308	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/pl/login"
+1513064664317	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1513064664317	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1513064664317	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1513064664839	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/pl/login"
+1513064666712	Marionette	DEBUG	Received DOM event "beforeunload" for "https://notopstryk.pl/"
+1513064667909	Marionette	DEBUG	Received DOM event "pagehide" for "https://notopstryk.pl/"
+1513064667910	Marionette	DEBUG	Received DOM event "unload" for "https://notopstryk.pl/"
+1513064668148	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/"
+1513064668164	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1513064668164	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1513064668864	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/"
+Sandbox: Unexpected EOF, op 10 flags 00 path /dev/fd/51
+[Child 10133, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 10133, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 10133, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 10133, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 10133, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 10133, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 10133, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 10133, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 10133, Chrome_ChildThread] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1513064668998	geckodriver	INFO	geckodriver 0.19.1
+1513064669001	geckodriver	INFO	Listening on 127.0.0.1:54801
+1513064670111	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.f5Wgh2FI62Yl"
+1513064670578	Marionette	INFO	Enabled via --marionette
+1513064671756	Marionette	INFO	Listening on port 38143
+1513064671827	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513064671884	Marionette	DEBUG	Register listener.js for window 2147483649
+1513064672026	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513064673582	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513064673582	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513064674040	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/"
+1513064675175	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/"
+1513064675232	Marionette	DEBUG	Received DOM event "beforeunload" for "https://notopstryk.pl/"
+1513064675730	Marionette	DEBUG	Received DOM event "pagehide" for "https://notopstryk.pl/"
+1513064675730	Marionette	DEBUG	Received DOM event "unload" for "https://notopstryk.pl/"
+1513064675947	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/pl/login"
+1513064675958	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1513064675958	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1513064676039	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/pl/login"
+1513064677660	Marionette	DEBUG	Received DOM event "beforeunload" for "https://notopstryk.pl/"
+1513064679006	Marionette	DEBUG	Received DOM event "pagehide" for "https://notopstryk.pl/"
+1513064679006	Marionette	DEBUG	Received DOM event "unload" for "https://notopstryk.pl/"
+1513064679248	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/"
+1513064679261	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1513064679262	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1513064680003	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/"
+Marionette threw an error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: chrome://marionette/content/proxy.js :: sendReply_ :: line 276"  data: no]
+sendReply_@chrome://marionette/content/proxy.js:276:5
+reply@chrome://marionette/content/proxy.js:256:7
+sendToServer@chrome://marionette/content/listener.js:734:3
+sendError@chrome://marionette/content/listener.js:768:3
+dispatch/</<@chrome://marionette/content/listener.js:532:40
+
+1513065702287	geckodriver	INFO	geckodriver 0.19.1
+1513065702289	geckodriver	INFO	Listening on 127.0.0.1:52567
+1513065703402	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.3e4ukk9X67gV"
+1513065703853	Marionette	INFO	Enabled via --marionette
+1513065705056	Marionette	INFO	Listening on port 46703
+1513065705136	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513065705193	Marionette	DEBUG	Register listener.js for window 2147483649
+1513065705318	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513065707266	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513065707267	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513065708109	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/"
+1513065709999	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/"
+1513065710043	Marionette	DEBUG	Received DOM event "beforeunload" for "https://notopstryk.pl/"
+1513065710615	Marionette	DEBUG	Received DOM event "pagehide" for "https://notopstryk.pl/"
+1513065710616	Marionette	DEBUG	Received DOM event "unload" for "https://notopstryk.pl/"
+1513065710755	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1513065710756	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1513065710818	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/pl/login"
+1513065711420	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/pl/login"
+[Child 11010, Chrome_ChildThread] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 11010, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 11010, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1513065711563	geckodriver	INFO	geckodriver 0.19.1
+1513065711567	geckodriver	INFO	Listening on 127.0.0.1:44467
+1513065712679	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Kv04qQaVRh3l"
+1513065713136	Marionette	INFO	Enabled via --marionette
+1513065714463	Marionette	INFO	Listening on port 37643
+1513065714495	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513065714548	Marionette	DEBUG	Register listener.js for window 2147483649
+1513065714673	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513065716346	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513065716346	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513065716815	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/"
+1513065717928	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/"
+1513065717977	Marionette	DEBUG	Received DOM event "beforeunload" for "https://notopstryk.pl/"
+1513065718587	Marionette	DEBUG	Received DOM event "pagehide" for "https://notopstryk.pl/"
+1513065718588	Marionette	DEBUG	Received DOM event "unload" for "https://notopstryk.pl/"
+1513065718825	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/pl/login"
+1513065718836	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1513065718837	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1513065718935	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/pl/login"
+1513065720848	Marionette	DEBUG	Received DOM event "beforeunload" for "https://notopstryk.pl/"
+1513065722166	Marionette	DEBUG	Received DOM event "pagehide" for "https://notopstryk.pl/"
+1513065722167	Marionette	DEBUG	Received DOM event "unload" for "https://notopstryk.pl/"
+1513065722432	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/"
+1513065722433	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1513065722434	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1513065722434	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1513065723189	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/"
+[Child 11167, Chrome_ChildThread] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 11167, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 11167, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1513065723329	geckodriver	INFO	geckodriver 0.19.1
+1513065723332	geckodriver	INFO	Listening on 127.0.0.1:41549
+1513065724442	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.QKmXS2i5Arx2"
+1513065724907	Marionette	INFO	Enabled via --marionette
+1513065726113	Marionette	INFO	Listening on port 39525
+1513065726150	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513065726204	Marionette	DEBUG	Register listener.js for window 2147483649
+1513065726355	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513065727905	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513065727906	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513065728408	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/"
+1513065729421	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/"
+1513065729496	Marionette	DEBUG	Received DOM event "beforeunload" for "https://notopstryk.pl/"
+1513065730057	Marionette	DEBUG	Received DOM event "pagehide" for "https://notopstryk.pl/"
+1513065730058	Marionette	DEBUG	Received DOM event "unload" for "https://notopstryk.pl/"
+1513065730263	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/pl/login"
+1513065730274	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1513065730275	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1513065730992	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/pl/login"
+[Child 11325, Chrome_ChildThread] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 11325, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 11325, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1513065732216	geckodriver	INFO	geckodriver 0.19.1
+1513065732219	geckodriver	INFO	Listening on 127.0.0.1:51941
+1513065733326	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.0sUydLF8pPUr"
+1513065733779	Marionette	INFO	Enabled via --marionette
+1513065735054	Marionette	INFO	Listening on port 41219
+1513065735137	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513065735194	Marionette	DEBUG	Register listener.js for window 2147483649
+1513065735278	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513065737585	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513065737586	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513065738076	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/"
+1513065739431	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/"
+1513065739509	Marionette	DEBUG	Received DOM event "beforeunload" for "https://notopstryk.pl/"
+1513065740193	Marionette	DEBUG	Received DOM event "pagehide" for "https://notopstryk.pl/"
+1513065740194	Marionette	DEBUG	Received DOM event "unload" for "https://notopstryk.pl/"
+1513065740350	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1513065740350	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1513065740404	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/pl/login"
+1513065740583	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/pl/login"
+1513065742348	Marionette	DEBUG	Received DOM event "beforeunload" for "https://notopstryk.pl/"
+1513065743571	Marionette	DEBUG	Received DOM event "pagehide" for "https://notopstryk.pl/"
+1513065743572	Marionette	DEBUG	Received DOM event "unload" for "https://notopstryk.pl/"
+1513065743823	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/"
+1513065743841	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1513065743841	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1513065744573	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/"
+Sandbox: Unexpected EOF, op 10 flags 00 path /dev/fd/59
+[Child 11475, Chrome_ChildThread] WARNING: pipe error (21): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 11475, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x720003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+

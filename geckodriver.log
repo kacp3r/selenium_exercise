@@ -1,0 +1,308 @@
+1512991636704	geckodriver	INFO	geckodriver 0.19.1
+1512991636707	geckodriver	INFO	Listening on 127.0.0.1:42559
+1512991637801	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.kpBQcQCCyzfR"
+1512991638229	Marionette	INFO	Enabled via --marionette
+1512991639386	Marionette	INFO	Listening on port 38137
+1512991639411	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512991639460	Marionette	DEBUG	Register listener.js for window 2147483649
+1512991639581	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512991641391	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512991641391	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512991641936	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/pl/searchquery/lampa/1/phot/5?url=lampa"
+1512991642808	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/pl/searchquery/lampa/1/phot/5?url=lampa"
+1512991642868	Marionette	DEBUG	Received DOM event "beforeunload" for "https://notopstryk.pl/pl/searchquery/lampa/1/phot/5?url=lampa"
+1512991643741	Marionette	DEBUG	Received DOM event "pagehide" for "https://notopstryk.pl/pl/searchquery/lampa/1/phot/5?url=lampa"
+1512991643741	Marionette	DEBUG	Received DOM event "unload" for "https://notopstryk.pl/pl/searchquery/lampa/1/phot/5?url=lampa"
+1512991644015	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/pl/searchquery/harambe/1/phot/5?url=harambe"
+1512991644030	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1512991644030	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1512991644726	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/pl/searchquery/harambe/1/phot/5?url=harambe"
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E001D,name=PHal::Msg_DisableScreenConfigurationNotifications) Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512997010095	geckodriver	INFO	geckodriver 0.19.1
+1512997010099	geckodriver	INFO	Listening on 127.0.0.1:53049
+1512997011234	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.zm1H89DpdLnb"
+1512997011860	Marionette	INFO	Enabled via --marionette
+1512997013415	Marionette	INFO	Listening on port 38333
+1512997013456	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512997013524	Marionette	DEBUG	Register listener.js for window 2147483649
+1512997013689	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512997014805	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512997014805	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512997015319	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/"
+1512997016280	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/"
+Marionette threw an error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: chrome://marionette/content/proxy.js :: sendReply_ :: line 276"  data: no]
+sendReply_@chrome://marionette/content/proxy.js:276:5
+reply@chrome://marionette/content/proxy.js:256:7
+sendToServer@chrome://marionette/content/listener.js:734:3
+sendError@chrome://marionette/content/listener.js:768:3
+dispatch/</<@chrome://marionette/content/listener.js:532:40
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512997041350	geckodriver	INFO	geckodriver 0.19.1
+1512997041355	geckodriver	INFO	Listening on 127.0.0.1:51757
+1512997041487	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.c71GTgu08ySX"
+1512997042085	Marionette	INFO	Enabled via --marionette
+1512997043637	Marionette	INFO	Listening on port 40525
+1512997043729	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512997043793	Marionette	DEBUG	Register listener.js for window 2147483649
+1512997043991	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512997044989	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512997044989	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512997045661	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/"
+1512997046595	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/"
+Marionette threw an error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: chrome://marionette/content/proxy.js :: sendReply_ :: line 276"  data: no]
+sendReply_@chrome://marionette/content/proxy.js:276:5
+reply@chrome://marionette/content/proxy.js:256:7
+sendToServer@chrome://marionette/content/listener.js:734:3
+sendError@chrome://marionette/content/listener.js:768:3
+dispatch/</<@chrome://marionette/content/listener.js:532:40
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512998132407	geckodriver	INFO	geckodriver 0.19.1
+1512998132410	geckodriver	INFO	Listening on 127.0.0.1:51391
+1512998133486	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.TZqUlb2Cw3zG"
+1512998133847	Marionette	INFO	Enabled via --marionette
+1512998134956	Marionette	INFO	Listening on port 35781
+1512998134996	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512998135044	Marionette	DEBUG	Register listener.js for window 2147483649
+1512998135145	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512998136365	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512998136366	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512998136826	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/"
+1512998137766	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512998186690	geckodriver	INFO	geckodriver 0.19.1
+1512998186692	geckodriver	INFO	Listening on 127.0.0.1:43097
+1512998187776	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.a3QtsmcjIjbI"
+1512998188123	Marionette	INFO	Enabled via --marionette
+1512998189313	Marionette	INFO	Listening on port 41801
+1512998189389	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512998189435	Marionette	DEBUG	Register listener.js for window 2147483649
+1512998189496	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512998190641	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512998190641	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512998191084	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/"
+1512998192119	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512998203856	geckodriver	INFO	geckodriver 0.19.1
+1512998203859	geckodriver	INFO	Listening on 127.0.0.1:46017
+1512998204939	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.3Auo5Z0iqWKl"
+1512998205315	Marionette	INFO	Enabled via --marionette
+1512998206427	Marionette	INFO	Listening on port 37013
+1512998206447	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512998206491	Marionette	DEBUG	Register listener.js for window 2147483649
+1512998206643	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512998207721	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512998207721	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512998208125	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/"
+1512998209182	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/"
+Marionette threw an error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: chrome://marionette/content/proxy.js :: sendReply_ :: line 276"  data: no]
+sendReply_@chrome://marionette/content/proxy.js:276:5
+reply@chrome://marionette/content/proxy.js:256:7
+sendToServer@chrome://marionette/content/listener.js:734:3
+sendError@chrome://marionette/content/listener.js:768:3
+dispatch/</<@chrome://marionette/content/listener.js:532:40
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1513000628557	geckodriver	INFO	geckodriver 0.19.1
+1513000628560	geckodriver	INFO	Listening on 127.0.0.1:45031
+1513000628648	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.N1OTkAFoa6J8"
+1513000629076	Marionette	INFO	Enabled via --marionette
+1513000630233	Marionette	INFO	Listening on port 33567
+1513000630309	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513000630364	Marionette	DEBUG	Register listener.js for window 2147483649
+1513000630455	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513000631532	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513000631532	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513000632274	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/"
+1513000633612	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Marionette threw an error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: chrome://marionette/content/proxy.js :: sendReply_ :: line 276"  data: no]
+sendReply_@chrome://marionette/content/proxy.js:276:5
+reply@chrome://marionette/content/proxy.js:256:7
+sendToServer@chrome://marionette/content/listener.js:734:3
+sendError@chrome://marionette/content/listener.js:768:3
+dispatch/</<@chrome://marionette/content/listener.js:532:40
+
+1513000790429	geckodriver	INFO	geckodriver 0.19.1
+1513000790432	geckodriver	INFO	Listening on 127.0.0.1:47307
+1513000791517	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.e1sszkz2iAAg"
+1513000791916	Marionette	INFO	Enabled via --marionette
+1513000793014	Marionette	INFO	Listening on port 39869
+1513000793024	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513000793074	Marionette	DEBUG	Register listener.js for window 2147483649
+1513000793178	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513000794358	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513000794359	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513000794816	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/"
+1513000795887	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/"
+Marionette threw an error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: chrome://marionette/content/proxy.js :: sendReply_ :: line 276"  data: no]
+sendReply_@chrome://marionette/content/proxy.js:276:5
+reply@chrome://marionette/content/proxy.js:256:7
+sendToServer@chrome://marionette/content/listener.js:734:3
+sendError@chrome://marionette/content/listener.js:768:3
+dispatch/</<@chrome://marionette/content/listener.js:532:40
+
+1513000824529	geckodriver	INFO	geckodriver 0.19.1
+1513000824531	geckodriver	INFO	Listening on 127.0.0.1:45237
+1513000825616	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.BnPczyzgzZEY"
+1513000826021	Marionette	INFO	Enabled via --marionette
+1513000827118	Marionette	INFO	Listening on port 38745
+1513000827126	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513000827174	Marionette	DEBUG	Register listener.js for window 2147483649
+1513000827326	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513000829578	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513000829578	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513000830032	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/"
+1513000831360	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/"
+Marionette threw an error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: chrome://marionette/content/proxy.js :: sendReply_ :: line 276"  data: no]
+sendReply_@chrome://marionette/content/proxy.js:276:5
+reply@chrome://marionette/content/proxy.js:256:7
+sendToServer@chrome://marionette/content/listener.js:734:3
+sendError@chrome://marionette/content/listener.js:768:3
+dispatch/</<@chrome://marionette/content/listener.js:532:40
+
+1513000881631	geckodriver	INFO	geckodriver 0.19.1
+1513000881635	geckodriver	INFO	Listening on 127.0.0.1:38607
+1513000882716	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.eD53i4pGGMy1"
+1513000883088	Marionette	INFO	Enabled via --marionette
+1513000884125	Marionette	INFO	Listening on port 35359
+1513000884225	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513000884275	Marionette	DEBUG	Register listener.js for window 2147483649
+1513000884373	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513000885919	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513000885919	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513000886326	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/"
+1513000887422	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/"
+Marionette threw an error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: chrome://marionette/content/proxy.js :: sendReply_ :: line 276"  data: no]
+sendReply_@chrome://marionette/content/proxy.js:276:5
+reply@chrome://marionette/content/proxy.js:256:7
+sendToServer@chrome://marionette/content/listener.js:734:3
+sendError@chrome://marionette/content/listener.js:768:3
+dispatch/</<@chrome://marionette/content/listener.js:532:40
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1513001178619	geckodriver	INFO	geckodriver 0.19.1
+1513001178621	geckodriver	INFO	Listening on 127.0.0.1:48791
+1513001179702	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.zc0tWnT5IVwj"
+1513001180096	Marionette	INFO	Enabled via --marionette
+1513001181165	Marionette	INFO	Listening on port 39825
+1513001181231	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513001181302	Marionette	DEBUG	Register listener.js for window 2147483649
+1513001181385	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513001182560	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513001182560	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513001183018	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/"
+1513001184227	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/"
+Marionette threw an error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: chrome://marionette/content/proxy.js :: sendReply_ :: line 276"  data: no]
+sendReply_@chrome://marionette/content/proxy.js:276:5
+reply@chrome://marionette/content/proxy.js:256:7
+sendToServer@chrome://marionette/content/listener.js:734:3
+sendError@chrome://marionette/content/listener.js:768:3
+dispatch/</<@chrome://marionette/content/listener.js:532:40
+
+1513001196341	geckodriver	INFO	geckodriver 0.19.1
+1513001196343	geckodriver	INFO	Listening on 127.0.0.1:54625
+1513001197424	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.nGfkDRLukrSl"
+1513001197805	Marionette	INFO	Enabled via --marionette
+1513001198950	Marionette	INFO	Listening on port 42643
+1513001199033	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513001199079	Marionette	DEBUG	Register listener.js for window 2147483649
+1513001199143	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513001200258	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513001200259	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513001200695	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/"
+1513001201838	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/"
+Marionette threw an error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: chrome://marionette/content/proxy.js :: sendReply_ :: line 276"  data: no]
+sendReply_@chrome://marionette/content/proxy.js:276:5
+reply@chrome://marionette/content/proxy.js:256:7
+sendToServer@chrome://marionette/content/listener.js:734:3
+sendError@chrome://marionette/content/listener.js:768:3
+dispatch/</<@chrome://marionette/content/listener.js:532:40
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1513001214424	geckodriver	INFO	geckodriver 0.19.1
+1513001214427	geckodriver	INFO	Listening on 127.0.0.1:39611
+1513001215508	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.xiZr5LuIskCJ"
+1513001215898	Marionette	INFO	Enabled via --marionette
+1513001216949	Marionette	INFO	Listening on port 43281
+1513001217026	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513001217078	Marionette	DEBUG	Register listener.js for window 2147483649
+1513001217160	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513001218502	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513001218502	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513001218911	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/"
+1513001220408	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1513001236114	geckodriver	INFO	geckodriver 0.19.1
+1513001236116	geckodriver	INFO	Listening on 127.0.0.1:55891
+1513001237229	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.vOBrcCn5GB0W"
+1513001237611	Marionette	INFO	Enabled via --marionette
+1513001238653	Marionette	INFO	Listening on port 37177
+1513001238752	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513001238802	Marionette	DEBUG	Register listener.js for window 2147483649
+1513001238917	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513001239807	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513001239808	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513001240267	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/"
+1513001241621	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/"
+Marionette threw an error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: chrome://marionette/content/proxy.js :: sendReply_ :: line 276"  data: no]
+sendReply_@chrome://marionette/content/proxy.js:276:5
+reply@chrome://marionette/content/proxy.js:256:7
+sendToServer@chrome://marionette/content/listener.js:734:3
+sendError@chrome://marionette/content/listener.js:768:3
+dispatch/</<@chrome://marionette/content/listener.js:532:40
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1513001257085	geckodriver	INFO	geckodriver 0.19.1
+1513001257088	geckodriver	INFO	Listening on 127.0.0.1:51523
+1513001258167	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.oSP9uVn15s8i"
+1513001258518	Marionette	INFO	Enabled via --marionette
+1513001259565	Marionette	INFO	Listening on port 37361
+1513001259574	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513001259620	Marionette	DEBUG	Register listener.js for window 2147483649
+1513001259789	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513001260709	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513001260710	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513001261145	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/"
+1513001262503	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/"
+Marionette threw an error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: chrome://marionette/content/proxy.js :: sendReply_ :: line 276"  data: no]
+sendReply_@chrome://marionette/content/proxy.js:276:5
+reply@chrome://marionette/content/proxy.js:256:7
+sendToServer@chrome://marionette/content/listener.js:734:3
+sendError@chrome://marionette/content/listener.js:768:3
+dispatch/</<@chrome://marionette/content/listener.js:532:40
+
+1513064431075	geckodriver	INFO	geckodriver 0.19.1
+1513064431078	geckodriver	INFO	Listening on 127.0.0.1:49907
+1513064431175	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ymEGIkI4hY4D"
+1513064431635	Marionette	INFO	Enabled via --marionette
+1513064432846	Marionette	INFO	Listening on port 43201
+1513064432888	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513064432939	Marionette	DEBUG	Register listener.js for window 2147483649
+1513064433084	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513064434382	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513064434382	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513064434847	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://notopstryk.pl/"
+1513064435909	Marionette	DEBUG	Received DOM event "pageshow" for "https://notopstryk.pl/"
+[Child 9234, Chrome_ChildThread] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 9234, Chrome_ChildThread] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 9234, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
